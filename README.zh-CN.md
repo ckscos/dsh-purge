@@ -2,12 +2,12 @@
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>
 
-<h1 align="center">⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge）</h1>
+<h1 align="center">⚔️ 破全甲（dsh-purge）</h1>
 
-<p align="center"><strong>Version 1.1.90</strong></p>
+<p align="center"><strong>Version 1.1.90 · 破全甲</strong></p>
 
 <p align="center">
-  <em>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分</em>
+  <em>DeepSeek Harness 破全甲：对 GPT 与 DeepSeek 全模型通用的破甲提示词，不同模型可换不同提示词；默认提示词覆盖 ChatGPT/Codex 与 DSH/deepseek-flash。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分</em>
 </p>
 
 <p align="center">
